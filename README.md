@@ -19,4 +19,4 @@ If there is any issue of concern regarding the apk file, contact me at kimanih68
 
 Thanks.
 
-H. Kimani
+Harun Kimani
