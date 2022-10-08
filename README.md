@@ -11,9 +11,9 @@ I have already sent this update to both stores - waiting for them to complete re
 
 I didn't add or remove anything from the earlier version - only updated it to work with current mobile phones and tablets.
 
-Meanwhile, to use the apk file here, just upload mathgraph_git.apk file above (by clicking it, and choosing download).
+Meanwhile, to use the apk file here, just download mathgraph_git.apk file above (by clicking it, and choosing download).
 
-If uploaded to your android phone, click on it to install.
+If downloaded to your android phone, click on it to install.
 
 If there is any issue of concern regarding the apk file, contact me at kimanih68@gmail.com
 
