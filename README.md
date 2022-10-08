@@ -13,6 +13,8 @@ I didn't add or remove anything from the earlier version - only updated it to wo
 
 Meanwhile, to use the apk file here, just download mathgraph_git.apk file above (by clicking it, and choosing download).
 
+(Direct link to Math Graph apk file  https://github.com/kh589273/MathGraphApk/blob/main/mathgraph_git.apk )
+
 If downloaded to your android phone, click on it to install.
 
 If there is any issue of concern regarding the apk file, contact me at kimanih68@gmail.com
