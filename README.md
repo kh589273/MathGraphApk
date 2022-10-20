@@ -13,7 +13,7 @@ I didn't add or remove anything from the earlier version - only updated it to wo
 
 Meanwhile, to use the apk file here, just download mathgraph_git.apk file above (by clicking it, and choosing download).
 
-(Direct link to Math Graph apk file  https://github.com/kh589273/MathGraphApk/blob/main/mathgraph_git.apk )
+(Edit: I have deleted the apk file here, since this app update is now available at Google Play (link above), and Amazon, here https://www.amazon.com/DIAMOND-APPS-Math-Graph/dp/B00975LFVW/)
 
 If downloaded to your android phone, click on it to install.
 
